@@ -1,3 +1,3 @@
 [submodule "Weight_Adjustment_in_Surveys"]
 	path = Weight_Adjustment_in_Surveys
-	url = https://github.com/EducationShinyAppTeam/Weight_Adjustment_in_Surveys
+	url = ../Weight_Adjustment_in_Surveys
