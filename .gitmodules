@@ -1,3 +1,6 @@
 [submodule "Weight_Adjustment_in_Surveys"]
 	path = Weight_Adjustment_in_Surveys
 	url = ../Weight_Adjustment_in_Surveys
+[submodule "Sampling_Methods"]
+	path = Sampling_Methods
+	url = ../Sampling_Methods
